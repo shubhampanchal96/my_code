@@ -12,5 +12,5 @@ def main(data,length):
 main(data,13)
 
 
-
+#code was done in python
 #greatest product of 13 adjacentdigits=23514624000
